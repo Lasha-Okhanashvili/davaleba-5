@@ -1,0 +1,58 @@
+
+.d-flex{
+	display: flex;
+}
+.logo{
+	color: red;
+	margin: 20px;
+}
+.container{
+	width: 80%;
+	margin: auto;
+}
+li{
+	margin: 20px;
+
+}
+.container1{
+	width: 80%;
+    margin: auto;
+    padding-left: 50px;
+}
+h2{
+	margin-bottom: 20px;
+
+}
+body{
+	background-color:#F6F8F9;
+}
+.box{
+	background-color:white;
+}
+.box > img {
+    width: 100%;
+}
+.item {
+	display:  flex;
+	justify-content: space-between;
+}
+.item > .elem {
+	margin: 5px;
+}
+.w-100 {
+	width:  100%;
+}
+.space{
+	padding: 20px;
+}
+.space-between{
+justify-content: space-between;}
+.mt-20{
+	margin-top: 20px;
+}
+.footer{background-color: grey;color: white;}
+.footer a {color:white ;}
+
+
+
+
